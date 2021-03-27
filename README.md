@@ -7,3 +7,10 @@ You can just install Google Search Client using this command :
 pip install google-api-python-client
 
 Once installed you can just run : python google_api.py
+
+
+
+## Example : 
+
+Query : 
+Results : 
