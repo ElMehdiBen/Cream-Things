@@ -13,7 +13,9 @@ Once installed you can just run : python google_api.py
 ## Example : 
 
 Query / Search words : q = 'Digital Marketing'
+
 Results : 
+
   Reading page number: 1
   Reading page number: 2
   Reading page number: 3
